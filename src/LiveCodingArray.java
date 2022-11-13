@@ -14,6 +14,5 @@ public class LiveCodingArray {
             if (i==text.length-1) continue;
             System.out.printf("-");
         }
-
     }
 }
